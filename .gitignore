@@ -24,5 +24,8 @@ captures/
 *.aab
 *.idsig
 
+# Firebase / Google services config
+**/google-services.json
+
 # Logs
 *.log
